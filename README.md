@@ -51,6 +51,7 @@
 
 - **Project 1:** [Videotube](videotube.merakishubh.com) -A full-stack Videotube project showcasing efficient video management, user authentication, and seamless frontend-backend integration using modern tech stacks.
 - **Project 2:** [SnapGram](snapgram.merakishubh.com) - A full-stack web application where you can post your awesome pictures with descriptions; authenticated users can like and comment on posts, and you can do the same on others
+- **Project 3:** [SnapGram](editsync.merakishubh.com) - Collaborate seamlessly in real-time with editSync, the ultimate online code editor designed for developers to code, debug, and communicate together effortlessly.
 
 <!-- ---
 
@@ -69,5 +70,5 @@
   <a href="https://linkedin.com/in/merakishubh" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
   <a href="https://instagram.com/hellomerakishubh" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
  <a href="https://hashnode.com/@merakishubh" target="_blank"><img src="https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode" style="margin-bottom: 5px;" /></a>
-  <a href="https://monkeytype.com/@merakishubh" target="_blank"><img src="https://img.shields.io/badge/monkeytype-%23FF914D.svg?&style=for-the-badge&logo=monkeytype&logoColor=white" alt="monkeytype" style="margin-bottom: 5px;" /></a>
+  <a href="https://monkeytype.com/profile/Merakishubh" target="_blank"><img src="https://img.shields.io/badge/monkeytype-%23FF914D.svg?&style=for-the-badge&logo=monkeytype&logoColor=white" alt="monkeytype" style="margin-bottom: 5px;" /></a>
 </div>
