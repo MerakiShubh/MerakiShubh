@@ -8,7 +8,7 @@
 - 🛠️ **I love building projects**
 - 🌟 **Actively expanding my skills in all areas of technology**
 - 🤝 **Looking to collaborate with fellow content creators**
-- 💯 Know about my experiences: **[resume](files/resume.pdf)**
+- 💯 Know about my experiences: **[resume](https://drive.google.com/file/d/1I-j9zotMzfokIlAXMrGKbR6a5KaG0pA0/view)**
 
 ---
 
@@ -49,9 +49,10 @@
 
 ## 🌟 Projects
 
-- **Project 1:** [Videotube](videotube.merakishubh.com) -A full-stack Videotube project showcasing efficient video management, user authentication, and seamless frontend-backend integration using modern tech stacks.
-- **Project 2:** [SnapGram](snapgram.merakishubh.com) - A full-stack web application where you can post your awesome pictures with descriptions; authenticated users can like and comment on posts, and you can do the same on others
-- **Project 3:** [SnapGram](editsync.merakishubh.com) - Collaborate seamlessly in real-time with editSync, the ultimate online code editor designed for developers to code, debug, and communicate together effortlessly.
+- **Project 1:** [Streamify](streamify.merakishubh.com) -A full-stack Videotube project showcasing efficient video management, user authentication, and seamless frontend-backend integration using modern tech stacks.
+- **Project 2:** [CodeSync](editsync.merakishubh.com) - Collaborate seamlessly in real-time with editSync, the ultimate online code editor designed for developers to code, debug, and communicate together effortlessly.
+- **Project 3:** [Performance Monitor](https://www.npmjs.com/package/my-performance-tracker) - A npm package which use to monitor you server performance like how much cpu it is consuming, server downtime and memory consumption.
+- **Project 4:** [videoTube](videoTube.merakishubh.com) - A full-stack web application where you can upload, watch videos, it's a video streaming platform.
 
 <!-- ---
 
