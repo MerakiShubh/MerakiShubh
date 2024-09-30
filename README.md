@@ -7,7 +7,7 @@
 - 👷🏾‍♂️ **Student of Artificial Intelligence and Data Science**
 - 🛠️ **I love building projects**
 - 🌟 **Actively expanding my skills in all areas of technology**
-- 🤝 **Looking to collaborate with fellow content creators**
+- 🤝 **Looking to collaborate with fellow developers**
 - 💯 Know about my experiences: **[resume](https://drive.google.com/file/d/1I-j9zotMzfokIlAXMrGKbR6a5KaG0pA0/view)**
 
 ---
