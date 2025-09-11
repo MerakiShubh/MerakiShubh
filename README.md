@@ -49,10 +49,10 @@
 
 ## 🌟 Projects
 
-- **Project 1:** [Streamify](video-tube-frontend-v2.vercel.app) -A full-stack streamify project showcasing efficient video management, user authentication, and seamless frontend-backend integration using modern tech stacks.
-- **Project 2:** [CodeSync](codesync.merakishubh.dev) - Collaborate seamlessly in real-time with editSync, the ultimate online code editor designed for developers to code, debug, and communicate together effortlessly.
+- **Project 1:** [Streamify](https://video-tube-frontend-v2.vercel.app) -A full-stack streamify project showcasing efficient video management, user authentication, and seamless frontend-backend integration using modern tech stacks.
+- **Project 2:** [CodeSync](https://codesync.merakishubh.dev) - Collaborate seamlessly in real-time with editSync, the ultimate online code editor designed for developers to code, debug, and communicate together effortlessly.
 - **Project 3:** [Performance Monitor](https://www.npmjs.com/package/my-performance-tracker) - A npm package which use to monitor you server performance like how much cpu it is consuming, server downtime and memory consumption.
-- **Project 4:** [vehicleBooking](vehiclebooking.merakishubh.dev) - A Vehicle Booking app for bookers and vehicle owners, where users can register their vehicles and rent them out.
+- **Project 4:** [vehicleBooking](https://vehiclebooking.merakishubh.dev) - A Vehicle Booking app for bookers and vehicle owners, where users can register their vehicles and rent them out.
 
 <!-- ---
 
@@ -66,7 +66,6 @@
 ## Connect with me
 
 <div align="center">
-  <a href="https://github.com/merakishubh" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
   <a href="https://twitter.com/merakishubh" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
   <a href="https://linkedin.com/in/merakishubh" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
   <a href="https://instagram.com/hellomerakishubh" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
