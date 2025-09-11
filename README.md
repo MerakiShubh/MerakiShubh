@@ -8,7 +8,7 @@
 - 🛠️ **I love building projects**
 - 🌟 **Actively expanding my skills in all areas of technology**
 - 🤝 **Looking to collaborate with fellow developers**
-- 💯 Know about my experiences: **[resume](https://drive.google.com/file/d/1I-j9zotMzfokIlAXMrGKbR6a5KaG0pA0/view)**
+- 💯 Know about my experiences: **[resume](https://drive.google.com/file/d/1rEGBUbuCwKiZc7hOHYnXqwnu1Zc9R12h/view?usp=drive_link)**
 
 ---
 
@@ -49,10 +49,10 @@
 
 ## 🌟 Projects
 
-- **Project 1:** [Streamify](streamify.merakishubh.com) -A full-stack Videotube project showcasing efficient video management, user authentication, and seamless frontend-backend integration using modern tech stacks.
-- **Project 2:** [CodeSync](editsync.merakishubh.com) - Collaborate seamlessly in real-time with editSync, the ultimate online code editor designed for developers to code, debug, and communicate together effortlessly.
+- **Project 1:** [Streamify](video-tube-frontend-v2.vercel.app) -A full-stack streamify project showcasing efficient video management, user authentication, and seamless frontend-backend integration using modern tech stacks.
+- **Project 2:** [CodeSync](codesync.merakishubh.dev) - Collaborate seamlessly in real-time with editSync, the ultimate online code editor designed for developers to code, debug, and communicate together effortlessly.
 - **Project 3:** [Performance Monitor](https://www.npmjs.com/package/my-performance-tracker) - A npm package which use to monitor you server performance like how much cpu it is consuming, server downtime and memory consumption.
-- **Project 4:** [videoTube](videoTube.merakishubh.com) - A full-stack web application where you can upload, watch videos, it's a video streaming platform.
+- **Project 4:** [vehicleBooking](vehiclebooking.merakishubh.dev) - A Vehicle Booking app for bookers and vehicle owners, where users can register their vehicles and rent them out.
 
 <!-- ---
 
